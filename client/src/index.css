@@ -1,0 +1,57 @@
+ body {
+   
+    
+  background-color: #cccccc;
+  background-size: cover;
+  
+  
+
+} 
+
+
+
+.body1 {
+   background-image: url("/regal.png");
+    background-size: cover;
+    padding: 25px;
+  
+  margin-top: 50px;
+  margin-bottom: 25px;
+  font-size: 20px;
+  
+}
+
+.shadow {
+  background-image: url("/regal.png");
+  margin: 0 auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  max-width: 700px;
+  height: 500px;
+  background-color: white;
+  -webkit-box-shadow: 0px 5px 15px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 5px 15px 10px rgba(0, 0, 0, 0.2);    
+  border: 1px solid #000;
+  padding: 15px;
+
+}
+
+.portImg  {
+	height: 170px;
+ 
+}
+.container {
+  background-image: url("/regal.png");
+  background-color: #eeeeee;
+  padding: 75px;
+  border: 1px solid #000;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  
+
+}
+
+#portLink{
+  
+  text-decoration: underline;
+}
